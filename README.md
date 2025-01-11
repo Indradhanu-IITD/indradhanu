@@ -140,10 +140,6 @@ This section outlines the naming conventions and folder structure followed in th
    - **Naming Convention:** Use `PascalCase.css` or `.module.css` if using CSS modules.
      - Example: `Button.css` or `Button.module.css`.
 
-### 3. **Test Files:**
-   - **Naming Convention:** Use `PascalCase.test.js` or `PascalCase.spec.js` for test files corresponding to components or pages.
-     - Example: `Button.test.js`, `Navbar.test.js`.
-
 ### 4. **Hooks, Utils, and Services:**
    - **Naming Convention:** Use `camelCase` for hook, utility, and service files. Example:
      - `useFetch.js`
@@ -151,7 +147,6 @@ This section outlines the naming conventions and folder structure followed in th
      - `authService.js`
 
 ## General Naming Guidelines
-
 1. **PascalCase** for component and page folder and file names.
 2. **camelCase** for hooks, utils, and service files.
 3. **kebab-case** for asset file names (e.g., images, fonts).
